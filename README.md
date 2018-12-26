@@ -44,28 +44,7 @@ Or use this test case
 * Xiaomi Mi PAD 3 (Android 7.0.0, API 24)
 
 ##### Affected devices (according to top devices from crashlytics issue):
-* HUAWEI HWI-AL00
-* HUAWEI BKL-AL20
-* HUAWEI BKL-AL00
-* HUAWEI SNE-AL00
-* HUAWEI BLN-AL20
-* HUAWEI PRA-TL10
-* HUAWEI BLN-AL40
-* HUAWEI INE-AL00
-* HUAWEI NXT-TL00
-* Xiaomi Redmi Note 5A
-* Xiaomi Redmi 6A
-* Xiaomi MI 6
-* Xiaomi MI 5s Plus
-* vivo NEX A
-* vivo Y75A
-* vivo V1813BT
-* vivo X21UD A
-* OPPO A83
-* OPPO PADM00
-* OPPO A73
-* OPPO R11t
-* OPPO A77t
+We are waiting for new statistic from crashlytics
 
 #### Screenshots:
 ![Inside thread](screenshot1.png)
