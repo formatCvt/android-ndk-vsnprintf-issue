@@ -44,7 +44,10 @@ Or use this test case
 * Xiaomi Mi PAD 3 (Android 7.0.0, API 24)
 
 ##### Affected devices (according to top devices from crashlytics issue):
-We are waiting for new statistic from crashlytics
+* TCT (Alcatel) Alcatel 1X (U5A_PLUS_4G), Android 8.1
+* Xiaomi Redmi 6A (cactus), Android 8.1
+* Xiaomi Redmi 6 (cereus), Android 8.1
+* Huawei Honor 7A (HWDUA-M), Android 8.1
 
 #### Screenshots:
 ![Inside thread](screenshot1.png)
